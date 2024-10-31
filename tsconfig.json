@@ -11,6 +11,7 @@
     "outDir": "./build",
     "baseUrl": "./",
     "resolveJsonModule": true,
+    "esModuleInterop": true,
     "paths": {
       "Modules/*": ["src/modules/*"]
     }
